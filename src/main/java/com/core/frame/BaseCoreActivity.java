@@ -48,7 +48,7 @@ public abstract class BaseCoreActivity extends AppCompatActivity {
                 window.setStatusBarColor(Color.TRANSPARENT);
             }
         }
-        
+
         mContentContainer =(LinearLayout) findViewById(R.id.content_frame_content);
         titleBar = (CommonTitleBar) findViewById(R.id.frame_title_header);
         titleBar.setImmersive(isTitleImmerse);
