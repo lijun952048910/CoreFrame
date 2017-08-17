@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--psts-->
+    <dimen name="psts_dot_wh">8dp</dimen>
+    <dimen name="psts_dot_m_right">9dp</dimen>
+    <dimen name="psts_dot_m_top">7dp</dimen>
+    <dimen name="psts_dot_linelayout_h">23dp</dimen>
+    <dimen name="psts_dot_txt_size">10sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="weibo_tab_size">30dp</dimen>
+
+    <dimen name="button_drawable_padding">360dip</dimen>
+    <dimen name="home_bar_icon_margins">15dp</dimen>
+</resources>

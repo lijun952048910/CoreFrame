@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/base_root"
+    android:layout_height="match_parent">
+
+    <com.core.frame.widget.CommonTitleBar
+        android:id="@+id/frame_title_header"
+        android:layout_width="match_parent"
+        android:layout_height="44dip" />
+
+    <LinearLayout
+        android:id="@+id/content_frame_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/frame_title_header"
+        android:orientation="vertical" />
+　
+</RelativeLayout>
